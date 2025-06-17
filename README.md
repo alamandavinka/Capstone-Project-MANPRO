@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Capstone Project - MANPRO
-
 ## CAPSTONE PROJECT MATA KULIAH MANAJEMEN PROYEK
 
 ### Sistem Informasi Undangan Digital Wisuda Berbasis Website Universitas Alma Ata
